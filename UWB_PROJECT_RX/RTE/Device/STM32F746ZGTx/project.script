@@ -1,0 +1,4 @@
+load STM32F746ZGTx 
+project name STCubeGenerated 
+project toolchain "MDK-ARM V5" 
+project path F:\STM32F746 Nucleo\UWBProject\KEIL\RTE\Device\STM32F746ZGTx\ 
