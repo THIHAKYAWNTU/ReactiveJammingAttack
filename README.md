@@ -13,4 +13,4 @@ Source codes are for three projects.
 
 # Schematic Diagram
 
-![](https://github.com/THIHAKYAWNTU/ReactiveJammingAttack/blob/master/UWBDaughterCard_Sch.PNG)
+![](https://github.com/THIHAKYAWNTU/ReactiveJammingAttack/blob/master/UWBDaughterCard_Sch.png)
