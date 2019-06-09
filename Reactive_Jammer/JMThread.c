@@ -413,10 +413,10 @@ static void init_DWM(void)
 
 
 		/* Configure GPIOs to show TX/RX activity. See NOTE 6 below. */
-//		dwt_setlnapamode(1, 1);
+		dwt_setlnapamode(1, 1);
 
 //		/* Configure LEDs management. See NOTE 6 below. */
-//		dwt_setleds(DWT_LEDS_ENABLE);
+		dwt_setleds(DWT_LEDS_ENABLE);
 		
 		#ifdef NormalTx 
 		port_set_dw1000_fastrate();
